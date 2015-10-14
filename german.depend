@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1429358087 source:/home/kate/Документы/german/main.cpp
+	<memory>
+	"Word.h"
+	"Noun.h"
+	"Verb.h"
+
+1429363005 /home/kate/Документы/german/include/DeuEx.h
+	<exception>
+	"DeuEx.h"
+
+1429357953 source:/home/kate/Документы/german/src/DeuEx.cpp
+	"DeuEx.h"
+
+1429338721 source:/home/kate/Документы/german/src/ArticleEx.cpp
+	"ArticleEx.h"
+
+1429361311 /home/kate/Документы/german/include/ArticleEx.h
+	<exception>
+
+1429338867 source:/home/kate/Документы/german/src/FatalEx.cpp
+	"FatalEx.h"
+
+1429362992 /home/kate/Документы/german/include/FatalEx.h
+	<exception>
+
+1429363141 source:/home/kate/Документы/german/src/Word.cpp
+	"Word.h"
+
+1429362690 /home/kate/Документы/german/include/Word.h
+	<string>
+	<iostream>
+	<fstream>
+	<limits>
+	<iterator>
+	<random>
+	<vector>
+	<memory>
+	"DeuEx.h"
+	"ArticleEx.h"
+	"FatalEx.h"
+
+1429362705 /home/kate/Документы/german/include/Noun.h
+	<Word.h>
+
+1429362724 source:/home/kate/Документы/german/src/Noun.cpp
+	"Noun.h"
+
+1429363058 source:/home/kate/Документы/german/src/Verb.cpp
+	"Verb.h"
+
+1429362705 /home/kate/Документы/german/include/Verb.h
+	<Word.h>
+

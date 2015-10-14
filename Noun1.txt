@@ -1,0 +1,5 @@
+das Land  страна
+die Blume  цветок
+der Sonne  солнце
+der Hund  собака
+die Musik  музыка
